@@ -12,3 +12,4 @@ PRs are very much welcome!
 | --- | --- | --- |
 | [@kmett](https://twitter.com/kmett) | https://www.twitch.tv/ekmett | Haskell Live Coding |
 | [@potetm](https://twitter.com/potetm) | https://www.twitch.tv/timpote | Advent of Code in Clojure |
+| [@noopkat](https://twitter.com/noopkat) | https://twitch.tv/noopkat | Open source hardware + IoT |
