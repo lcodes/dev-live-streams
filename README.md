@@ -14,3 +14,5 @@ PRs are very much welcome!
 | [@potetm](https://twitter.com/potetm) | https://www.twitch.tv/timpote | Advent of Code in Clojure |
 | [@noopkat](https://twitter.com/noopkat) | https://twitch.tv/noopkat | Open source hardware + IoT |
 | [@mrtasbot](https://twitter.com/mrtasbot) | https://www.twitch.tv/dwangoac | TASBot |
+| [@lizthegrey](https://twitter.com/lizthegrey) | https://www.twitch.tv/lizthegrey | Advent of Code in Go |
+| [@nicuveo](https://twitter.com/nicuveo) | https://www.twitch.tv/nicuveo | Advent of Code in Haskell |
